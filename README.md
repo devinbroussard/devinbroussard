@@ -5,6 +5,6 @@
 - Feel free to contact me, I love people!
 - Check out a few of my cool repos!
 
-- How to reach me:
-Email: devin.ray.broussard@gmail.com
+- How to reach me:  
+Email: devin.ray.broussard@gmail.com  
 LinkedIn: https://www.linkedin.com/in/devinraybroussard/
