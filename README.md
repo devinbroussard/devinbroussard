@@ -1,4 +1,4 @@
-# Hi there 🌞
+# Hi there, I'm Devin! 🌞
 - Currently working as a software engineer at Veris Global!
 - My work at Veris Global is currently private and located on BitBucket, sorry!
 - Attending the Academy of Interactive Entertainment (AIE) for programming!
