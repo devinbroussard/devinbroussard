@@ -10,7 +10,7 @@ LinkedIn: https://www.linkedin.com/in/devinraybroussard/
 <img height="300px" src="https://img.itch.zone/aW1nLzEyNDE0NTAwLnBuZw==/315x250%23c/PhDID7.png" alt="b-force-logo" href="b-force.itch.io">  
 
 ### [B-Force](b-force.itch.io) - *(02/2023 - 05/2023)*  
-- B-Force is a third-person racing game with complicated and engaging movement mechanics
+- B-Force is a third-person racing game with complex and engaging movement mechanics
 - Collaborated with a team of three programmers and three artists in Unreal Engine
 - Led the implementation of game physics, including turning, drifting, and speed boosts
 
