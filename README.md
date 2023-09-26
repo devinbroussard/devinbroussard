@@ -1,5 +1,5 @@
-# Hi there, I'm Devin! 🌞
-I'm currently working as a full-stack software engineer at Veris Global. However, my work there is private and located on BitBucket (sorry!).
+# Hi there, I'm Devin! 🌞🌱🌿
+I'm a junior developer who loves the front-end! I'm currently focusing on building my front-end skills and portfolio while I work as a full-stack software engineer at Veris Global. My day-to-day work at Veris Global is private and on BitBucket (sorry!).
 
 Feel free to contact me; I love people!  
 How to reach me:  
