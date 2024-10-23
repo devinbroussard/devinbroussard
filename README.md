@@ -4,5 +4,5 @@ I'm a junior developer currently focusing on building my skills and portfolio wh
 Feel free to contact me; I love people!  
 How to reach me:  
 Email: devin.ray.broussard@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/devinraybroussard/](https://www.linkedin.com/in/devinraybroussard/)
+LinkedIn: [https://www.linkedin.com/in/devinraybroussard/](https://www.linkedin.com/in/devinraybroussard/)  
 Personal Site: https://devin.codes (still in development)
