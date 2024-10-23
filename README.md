@@ -5,4 +5,4 @@ Feel free to contact me; I love people!
 How to reach me:  
 Email: devin.ray.broussard@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/devinraybroussard/](https://www.linkedin.com/in/devinraybroussard/)  
-Personal Site: https://devin.codes (still in development)
+Personal Site (still in development): https://devin.codes
