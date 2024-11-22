@@ -3,7 +3,5 @@ Currently building my skills and portfolio while I work as a full-stack software
 My day-to-day work is private and on BitBucket.
 
 **Feel free to contact me; I love people!**  
-How to reach me:  
-Email: devin.ray.broussard@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/devinraybroussard/](https://www.linkedin.com/in/devinraybroussard/)  
 Personal Site (still in development): https://devin.codes
